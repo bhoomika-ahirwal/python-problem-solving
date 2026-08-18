@@ -35,4 +35,4 @@ def analyze_number(number):
 
 
 number = int(input("Enter a number: "))
-analyze_number(number)
+analyze_number(number)  
